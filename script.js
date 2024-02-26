@@ -1,0 +1,1 @@
+alert("Proyecto formativo Inventoray");
